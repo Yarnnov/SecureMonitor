@@ -1,0 +1,4 @@
+flask
+pyautogui
+requests
+pywin32; platform_system=="Windows"
