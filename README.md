@@ -22,10 +22,10 @@ SecureMonitor — простое клиент-серверное приложе�
  - pip install -r requirements.txt
 
 2. Запустите сервер:
- - python server.py
+ - python server/server.py
 
 3.Настройте и запустите клиент (укажите IP сервера в client.py):
- - python client.py
+ - python client/client.py
 
 4.Откройте в браузере:
  - http://SERVER_IP:5000/
